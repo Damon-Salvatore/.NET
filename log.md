@@ -142,7 +142,7 @@ Fail to write file to disk, not enough space.
 Start to create a remote object...
 Create a remote object,{remote object info here} 
 Waiting remote to response back...{waiting time here}
-Destroy remote object...{remote object success released}
+Destroyed remote object...{remote object success released}
 ```
 
 ### 最后
